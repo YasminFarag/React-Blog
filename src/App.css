@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+}
+
+li{
+  display:inline;
+  padding:30px;
+}
+
+.link{
+  text-decoration: none;
+  
+
+}
+
+.paragraph{
+  background-color:aliceblue;
+  width: 80%;
+  font-size: 30px;
+  padding: 20px;
+  height:120px;
+  margin:50px 0 0 50px;
+}
+
+.form{
+ 
+  width:70%;
+  height: 200px;
+  margin:50px 0 0 50px;
+  padding: 20px 0 0 20px
+
+}
+
+input{
+  width: 70%;
+  height:20px;
+  
+}
+
+label{
+ 
+  /* border:1px solid lightgray; */
+  height: 20px;
+  padding:3px;
+  font-weight: lighter
+  
+  
+  
+}
+.box{
+  padding-top:18px;
+  text-align: center
+
+  
+}
+
+button{
+  background-color: green;
+  margin-top:30px;
+  height:30px;
+  border-radius: 8px;
+  color:white;
+  width:12%;
+}
+
+
+
+ /*  show current posts component */
+
+.result{
+  background-color:aliceblue;
+  /* border: 1px solid ; */
+  width: 300px;
+  height:auto;
+  /* padding:50px; */
+  margin: 50px 0 0 200px
+  /* padding:50px;
+  width:70%;
+  height:100px;
+   */
+}
+
+p{
+  padding:10px;
+  text-align: center;
+
+}
+
+img{
+  position: absolute;
+  top: 7px;
+  width: 10%
+}
+
+.color{
+  background: blue
+}
+
+.coloring{
+  color: blue;
+}
