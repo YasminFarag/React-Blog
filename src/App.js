@@ -13,7 +13,7 @@ export default class App extends React.Component {
     title: "",
     content: "",
     showResult: [],
-    time: ''
+    time: '',
   }
   
 
