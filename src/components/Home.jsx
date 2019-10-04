@@ -55,7 +55,7 @@ class Home extends Component {
         )
         return (
             <main>
-                <p className='paragraph'>Welcome to our blog site</p>
+                <p className='paragraph'>Welcome To Our Blog Site</p>
                     {listData}
             </main>
         )
