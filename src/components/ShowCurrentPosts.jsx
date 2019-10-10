@@ -10,7 +10,7 @@ class ShowCurrentPosts extends Component {
           <li key={index}>{list}</li> 
          
        )) ;  */
-        console.log(this.props.arr);
+        //console.log(this.props.arr);
         
     return (
       <div className="result">
